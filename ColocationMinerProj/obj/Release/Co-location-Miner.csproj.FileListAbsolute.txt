@@ -1,0 +1,17 @@
+D:\C#Projs\ColocationMinerProj\ColocationMinerProj\obj\Release\ColocationMiner.AboutForm.resources
+D:\C#Projs\ColocationMinerProj\ColocationMinerProj\obj\Release\ColocationMiner.MainForm.resources
+D:\C#Projs\ColocationMinerProj\ColocationMinerProj\obj\Release\ColocationMiner.RandomDataForm.resources
+D:\C#Projs\ColocationMinerProj\ColocationMinerProj\obj\Release\ColocationMiner.WelcomeForm.resources
+D:\C#Projs\ColocationMinerProj\ColocationMinerProj\obj\Release\ColocationMiner.MainForm.en-US.resources
+D:\C#Projs\ColocationMinerProj\ColocationMinerProj\obj\Release\ColocationMiner.Resource.zh-CN.resources
+D:\C#Projs\ColocationMinerProj\ColocationMinerProj\obj\Release\Co-location-Miner.csproj.GenerateResource.Cache
+D:\C#Projs\ColocationMinerProj\ColocationMinerProj\bin\Release\ColocationMinerProj.exe.config
+D:\C#Projs\ColocationMinerProj\ColocationMinerProj\bin\Release\ColocationMinerProj.exe
+D:\C#Projs\ColocationMinerProj\ColocationMinerProj\bin\Release\ColocationMinerProj.pdb
+D:\C#Projs\ColocationMinerProj\ColocationMinerProj\bin\Release\en-US\ColocationMinerProj.resources.dll
+D:\C#Projs\ColocationMinerProj\ColocationMinerProj\bin\Release\zh-CN\ColocationMinerProj.resources.dll
+D:\C#Projs\ColocationMinerProj\ColocationMinerProj\obj\Release\ColocationMiner.Properties.Resources.resources
+D:\C#Projs\ColocationMinerProj\ColocationMinerProj\obj\Release\en-US\ColocationMinerProj.resources.dll
+D:\C#Projs\ColocationMinerProj\ColocationMinerProj\obj\Release\zh-CN\ColocationMinerProj.resources.dll
+D:\C#Projs\ColocationMinerProj\ColocationMinerProj\obj\Release\ColocationMinerProj.exe
+D:\C#Projs\ColocationMinerProj\ColocationMinerProj\obj\Release\ColocationMinerProj.pdb
